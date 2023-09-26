@@ -1,15 +1,5 @@
 **SPEECH TO SIGN LANGUAGE TRANSLATOR**
 
-**Review video link**
-
-<https://drive.google.com/drive/folders/1hkaiLylLXuBa4CfJhrB6EEcDkFn-fnvY?usp=sharing>
-
-20BCT0216 -- Dhruv Sanjay Rao
-
-20BCB0074 -- Pranav Bhagwat
-
-20BCE2037 = Shreyskar Shukla
-
 **Abstract**
 
 Communication between deaf and non-deaf people is a difficult task. Only
